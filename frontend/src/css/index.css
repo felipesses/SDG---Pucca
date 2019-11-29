@@ -1,0 +1,19 @@
+#navbar{
+    margin-top: 10px;
+}
+
+#navbar > a{
+    color: white;
+    font-weight: 700;
+}
+
+#navbar > div > div > a{
+    color: white;
+    font-weight: 300;
+}
+
+/* .navbar-toggler{
+    background: transparent url("../../public/pokeball-png.jpg") no-repeat;
+    width: auto;
+    height: auto;
+} */
