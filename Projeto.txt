@@ -1,0 +1,9 @@
+1ª etapa 
+Construir um crud web com nodejs no backend e sql como database
+
+2ª etapa 
+Construir um crud mobile com nodejs no backend e sql como database
+
+3ª etapa
+Evoluir as aplicacoes web e mobile para acessar a nossa api feita em nodejs 
+com os dados sql
