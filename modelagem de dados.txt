@@ -1,0 +1,8 @@
+Pokémon: 
+
+- Pokedex number (ID)
+- Name
+- Type (Pokémon may have one or two types)
+- Ability (Pokémon may have one or more abilities)
+- Evolution Level (If the Pokémon has evolution, take the name and lvl of the next evolving Pokémon)
+
